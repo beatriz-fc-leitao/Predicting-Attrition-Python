@@ -14,7 +14,8 @@ The main objectives of this project are:
 - Create a binary classification model that predicts whether an employee will leave the company or not. 
 - With insights from data exploration and the predictions from the model, propose recommendations to the company for reducing their attrition rate.
 
-[Click here for the full SQL script for this project](https://github.com/beatriz-fc-leitao/SQL_Fashion_Shop_Analysis/blob/main/fashion_retail_project.sql)
+**🛠 THE TOOLS**
+This project was conducted in Python using mainly Numpy, Pandas, and Sklearn.
 		
 ## Project
 **🗄 The final output**
