@@ -17,11 +17,15 @@ The main objectives of this project are:
 **🛠 THE TOOLS**
 
 This project was conducted in Python using mainly Numpy, Pandas, and Sklearn.
+
+**📊 THE DATASET**
+
+The dataset used for this project is publicly available on Kaggle as it was used for a previous Kaggle competition. it can be found [here](https://www.kaggle.com/competitions/playground-series-s3e3/data).
 		
 ## Project
 **🗄 The final output**
-- You can find the notebook with all the data exploration and the final classification model [here](https://github.com/beatriz-fc-leitao/Predicting-Attrition-Python/blob/main/employee_attrition.ipynb)
-- You can find an eecutive report summarizing the project from start to end, including data exploration and all models attempted [here](https://github.com/beatriz-fc-leitao/Predicting-Attrition-Python/blob/main/Predicting%20Employee%20Attrition.pdf)
+- You can find the notebook with all the data exploration and the final classification model [here](https://github.com/beatriz-fc-leitao/Predicting-Attrition-Python/blob/main/employee_attrition.ipynb).
+- You can find an eecutive report summarizing the project from start to end, including data exploration and all models attempted [here](https://github.com/beatriz-fc-leitao/Predicting-Attrition-Python/blob/main/Predicting%20Employee%20Attrition.pdf).
 
 ## 📚 Conclusion
 **💡 Summary of Key Findings**
