@@ -25,7 +25,7 @@ The dataset used for this project is publicly available on Kaggle as it was used
 ## Project
 **🗄 The final output**
 - You can find the notebook with all the data exploration and the final classification model [here](https://github.com/beatriz-fc-leitao/Predicting-Attrition-Python/blob/main/employee_attrition.ipynb).
-- You can find an eecutive report summarizing the project from start to end, including data exploration and all models attempted [here](https://github.com/beatriz-fc-leitao/Predicting-Attrition-Python/blob/main/Predicting%20Employee%20Attrition.pdf).
+- You can find an executive report summarizing the project from start to end, including data exploration and all models attempted [here](https://github.com/beatriz-fc-leitao/Predicting-Attrition-Python/blob/main/Predicting%20Employee%20Attrition.pdf).
 
 ## 📚 Conclusion
 **💡 Summary of Key Findings**
